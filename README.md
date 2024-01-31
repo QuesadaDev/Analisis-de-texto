@@ -1,0 +1,1 @@
+En este ejercicio introducimos una frase o un texto y nos retorna las palabras totales, los puntos que hay, la palabra más larga y la media de longitud de todas las palabras. :page_with_curl::page_with_curl:
